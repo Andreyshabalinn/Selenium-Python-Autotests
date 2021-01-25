@@ -1,0 +1,4 @@
+[0121/183743.346:ERROR:directory_reader_win.cc(43)] FindFirstFile: Системе не удается найти указанный путь. (0x3)
+[0121/183833.457:ERROR:directory_reader_win.cc(43)] FindFirstFile: Системе не удается найти указанный путь. (0x3)
+[0122/120439.561:ERROR:filesystem_win.cc(129)] GetFileAttributes C:\Users\Shabalin\AppData\Local\Temp\scoped_dir8272_1642838609\Crashpad\attachments\56c49eca-08ec-43e5-b1e1-c219d0a9dcbd: Системе не удается найти указанный путь. (0x3)
+[0122/143852.345:ERROR:directory_reader_win.cc(43)] FindFirstFile: Системе не удается найти указанный путь. (0x3)
